@@ -25,7 +25,7 @@ jobs:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: beandy-cyber  # Substitua com o seu nome de usuário do GitHub
+          github_user_name: beandy-dev  # Substitua com o seu nome de usuário do GitHub
           outputs: |
             dist/github-contribution-grid-snake.svg  # Caminho de saída do arquivo gerado
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
