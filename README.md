@@ -45,12 +45,8 @@
   
   <img align="right" width="45%" src="https://github.com/beandy-dev/beandy-dev/blob/main/imagens%20alternativas/img%20ilustrativa/Girl_coding_at_night_new.png">
   <h2 align="left" width="55%">Let's On The Dark Mode!</h2>
-   <p align="left" width="55%">
-    Meu interesse por programação começou em 2021, depois de uma palestra no Ensino Médio que despertou minha curiosidade. Aos poucos, fui estudando por conta própria, começando com HTML, CSS e Lógica de Programação, até perceber que realmente gosto de Desenvolvimento Web.
-   </p>
-   <p align="left" width="55%">
-    Hoje, estou aprofundando meus conhecimentos em Desenvolvimento Fullstack, Estruturas de Dados e Algoritmos, além de melhorar meu inglês (nível intermediário) e meu italiano (nível básico). Também tenho experiência com análise de dados, CRM e automação de processos, utilizando ferramentas como Salesforce, Airtable, Google Sheets e Excel.
-   </p>
+  <p align="left" width="55%">My journey into programming started in 2021, after a high school talk that sparked my curiosity. I began learning independently with HTML, CSS, and programming fundamentals, and soon discovered a genuine passion for web development.</p>
+  <p align="left" width="55%">I’m currently expanding my skills in fullstack development, data structures, and algorithms, while improving my English (intermediate) and Italian (basic). I also bring experience in data analysis, CRM, and process automation, working with tools like Salesforce, Airtable, Google Sheets, and Excel.</p>
   <br>
 
    <!-- https://github.githubassets.com/images/mona-loading-dark.gif-->
