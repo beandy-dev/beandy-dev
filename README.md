@@ -8,7 +8,7 @@
 <br>
  <!-- TABELA DE CONTRIBUIÇÕES --><!-- PAINEL DE TRABALHOS -->
  <div align="center">  
-  <img align="center" height="165em" src="http://github-readme-streak-stats.herokuapp.com?user=beandy-dev&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&hide_border=true"/>
+  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=beandy-dev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
      
   <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beandy-dev&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
  </div>
