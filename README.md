@@ -8,7 +8,7 @@
 <br>
  <!-- TABELA DE CONTRIBUIÇÕES --><!-- PAINEL DE TRABALHOS -->
  <div align="center">  
-  <img align="center" height="165em" src="https://github-readme-stats-virid-eight-38.vercel.app/api?username=beandy-dev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
+ <!-- <img align="center" height="165em" src="https://github-readme-stats-virid-eight-38.vercel.app/api?username=beandy-dev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/> -->
      
   <img align="center" height="165em" src="https://github-readme-stats-virid-eight-38.vercel.app/api/top-langs/?username=beandy-dev&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
  </div>
@@ -17,8 +17,9 @@
  <!-- ESPECIALIZÇÕES -->
  <div align="left">
   <h3 align="left" width="55%">Main Tech Skills</h3>
-  <img alt="Java" align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="AWS" align="center" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img alt="Python" align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img alt="Java" align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="HTML" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
